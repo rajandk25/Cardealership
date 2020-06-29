@@ -1,0 +1,19 @@
+.container{
+	width:1000px;
+}
+
+.logo {
+	height: 100px;
+}
+
+.separator {
+	margin-top: 20px;
+	padding: 10px;
+}
+
+.carImage {
+	width: 60%;
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+}
